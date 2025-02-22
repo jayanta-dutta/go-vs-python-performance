@@ -2,7 +2,7 @@
 
 ## Reference for multiprocessing : [README.md](multiprocessing/README.md)
 
-## Reference for multiprocessing :  [README.md](multithreading/README.md)
+## Reference for multithreading :  [README.md](multithreading/README.md)
 
 
 This project explores the strengths and use cases of Go and Python in DevOps, focusing on performance, automation, scripting, and concurrency.
