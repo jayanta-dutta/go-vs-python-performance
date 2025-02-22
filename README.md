@@ -1,8 +1,8 @@
 # Go vs Python for DevOps: Choosing the Right Tool
 
-## Reference for multiprocessing : [README.md](go-vs-python/multiprocessing/README.md)
+## Reference for multiprocessing : [README.md](multiprocessing/README.md)
 
-## Reference for multiprocessing :  [README.md](go-vs-python/multithreading/README.md)
+## Reference for multiprocessing :  [README.md](multithreading/README.md)
 
 
 This project explores the strengths and use cases of Go and Python in DevOps, focusing on performance, automation, scripting, and concurrency.
